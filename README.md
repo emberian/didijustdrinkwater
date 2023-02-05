@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 * [x] Image and introductory message displayed on screen
 * [x] Button displayed on screen
-* [ ] Toast with message appears when button is pressed
+* [x] Toast with message appears when button is pressed
 
 The following **optional** features are implemented:
 
