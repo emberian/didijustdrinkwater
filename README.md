@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features (minus the toast, bc i took the recording before the commit that added this parenthetical):
 
-[Video Walkthrough](https://user-images.githubusercontent.com/704250/216842233-8da8512d-28ac-4d64-ba6c-b6dd76f550a0.gif)
+![Video Walkthrough](https://user-images.githubusercontent.com/704250/216842233-8da8512d-28ac-4d64-ba6c-b6dd76f550a0.gif)
 
 GIF created with ScreenToGif on Win11!!
 
