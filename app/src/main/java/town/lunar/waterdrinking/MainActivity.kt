@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.TextView
+import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.DiffUtil
@@ -41,6 +42,7 @@ class MainActivity : AppCompatActivity() {
 
         val addSip = findViewById<Button>(R.id.add_sip)
         addSip.setOnClickListener {
+            Toast.makeText(this, "🎉 go you! wet thine cells!", Toast.LENGTH_SHORT).show()
             sipViewModel.insert(Sip(Instant.now()))
         }
     }
