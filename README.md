@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features (minus the toast, bc i took the recording before the commit that added this parenthetical):
 
-<img src='https://i.imgur.com/07LZ97j.gif' title='Video Walkthrough' width='1280' alt='Walkthrough of features of sip app' />
+![Video walkthrough](07LZ97j.gif)
 
 GIF created with ffmpeg!
 
