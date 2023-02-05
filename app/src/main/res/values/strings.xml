@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Did I just drink water</string>
+    <string name="instructions">Remember to drink water!\nIt\'s important to drink water. Tap the button when you do 😁</string>
+    <string name="delete_sip">delete sip</string>
+    <string name="delete_all_sips">Delete all sips</string>
+</resources>
