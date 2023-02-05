@@ -4,7 +4,7 @@ Submitted by: [ember arlynx](https://ember.software)
 
 **Did I just drink water** features Ralph (the water guy) encouraging you to drink water! when the "Sip sip" button is pressed, displays a list of previous sips, and allows for deleting both individual and all sips.
 
-spent: **3** hours spent in total, mostly reading up on 
+spent: **3** hours spent in total, mostly reading up on https://developer.android.com/topic/architecture.
 
 ## Required Features
 
